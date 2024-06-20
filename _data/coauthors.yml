@@ -1,34 +1,76 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"shao":
+  - firstname: ["Jing", "J."]
+    url: https://amandajshao.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"zhang":
+  - firstname: ["Jing", "J."]
+    url: https://hellojing89.github.io/
+  
+  - firstname: ["Ruimao"]
+    url: http://www.zhangruimao.site/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"yu":
+  - firstname: ["Qian", "Q."]
+    url: https://yuqian1023.github.io
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"xu":
+  - firstname: ["Dong", "D."]
+    url: https://www.cs.hku.hk/people/academic-staff/dongxu
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"wang":
+  - firstname: ["Xiaogang", "X.", "X. G."]
+    url: https://www.ee.cuhk.edu.hk/~xgwang/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"ngan":
+  - firstname: ["King Ngi", "K. N."]
+    url: https://www.ee.cuhk.edu.hk/~knngan/ 
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"ouyang":
+  - firstname: ["Wanli", "W."]
+    url: https://wlouyang.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"qiao":
+  - firstname: ["Yu", "Y."]
+    url: https://mmlab.siat.ac.cn/yuqiao
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"loy":
+  - firstname: ["Chen Change", "C. C.", "C.-C."]
+    url: https://www.mmlab-ntu.com/person/ccloy/
+
+"liu":
+  - firstname: ["Xihui", "X."]
+    url: http://xh-liu.github.io/
+
+  - firstname: ["Ziwei", "Z."]
+    url: https://liuziwei7.github.io/
+
+"lu":
+  - firstname: ["Cewu", "C."]
+    url: https://www.mvig.org/
+
+  - firstname: ["Chaochao"]
+    url: https://causallu.com/ 
+
+"fang":
+  - firstname: ["Haoshu", "H."]
+    url: https://fang-haoshu.github.io/
+
+"dai":
+  - firstname: ["Dai", "D."]
+    url: https://daibo.info/
+
+"zhou":
+  - firstname: ["Enshen"]
+    url: https://github.com/Zhoues
+
+"yin":
+  - firstname: ["Zhenfei"]
+    url: https://scholar.google.com.hk/citations?user=ngPR1dIAAAAJ&hl=zh-CN
+
+"yan":
+  - firstname: ["Junjie"]
+    url: https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en 
+
+"sun":
+  - firstname: ["Shuyang"]
+    url: https://kevin-ssy.github.io/ 
