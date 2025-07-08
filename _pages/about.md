@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am the Associate Professor at the [School of Software, Beihang University (BUAA)](http://soft.buaa.edu.cn/), China. I am also working closely with [Shanghai AI Laboratory](https://www.shlab.org.cn/).
+I am a Professor at the [School of Software, Beihang University (BUAA)](http://soft.buaa.edu.cn/), China.
 
 Before I joined BUAA in 2019, I was a postdoctoral researcher (2017-2019) in [MMLab@CUHK](https://mmlab.ie.cuhk.edu.hk/), working with [Prof. Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/). I received my Ph.D. from [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/) at [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. King Ngi Ngan](http://www.ee.cuhk.edu.hk/~knngan/) (IEEE Life Fellow).
 
